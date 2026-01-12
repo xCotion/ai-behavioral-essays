@@ -35,6 +35,12 @@ export default function Home() {
           </article>
         ))}
       </div>
+
+      <footer className="mt-16 pt-8 border-t border-zinc-800">
+        <p className="text-zinc-500 text-sm">
+          <em>How I Use AI</em> temporarily removed for revision.
+        </p>
+      </footer>
     </div>
   );
 }
