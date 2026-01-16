@@ -28,7 +28,7 @@ export default function RootLayout({
                 Ashton MacDonald
               </Link>
               <a
-                href="https://github.com/xCotion/ai-behavioral-essays"
+                href="https://github.com/ashtonships/ai-behavioral-essays"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-zinc-400 hover:text-zinc-100 transition-colors text-sm"
